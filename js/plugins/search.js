@@ -1,6 +1,6 @@
 EPUBJS.reader.search = {};
 
-// Search Server -- https://github.com/futurepress/epubjs-search
+// Search Server 
 EPUBJS.reader.search.SERVER = "https://pacific-cliffs-3579.herokuapp.com";
 
 EPUBJS.reader.search.request = function(q, callback) {
